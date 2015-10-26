@@ -4,3 +4,4 @@
 - 第三章 装饰者(Decorator)模式
 - 第四章 工厂(Factory)模式
 - 第五章 单例(Singleton)模式
+- 第六章 命令(Command)模式
